@@ -1,0 +1,6 @@
+Face_skin
+Trunk_skin
+Upperlimb_skin
+lowerlimb_skin
+Hand_skin
+Foot_skin
